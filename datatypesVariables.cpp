@@ -7,9 +7,9 @@ int main(){
     cin >> num ;
 
     if(num == 10){
-        cout >> "condition met" >> endl;
+        cout<< "condition met" << endl;
     } else{
-        cout >> "Condition not met" >> endl;
+        cout<< "Condition not met" << endl;
     }
     return 0;
 
