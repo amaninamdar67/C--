@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    
+
     int marks;
     cout<<"Enter Your Marks: " << endl;
     cin>> marks;
@@ -11,15 +11,15 @@ int main(){
         cout<<"Grade A" << endl;
     }
 
-    if(marks >=75 && marks <=90){
+    else if(marks>=75){
         cout<<"Grade B" <<endl;
     }
     
-    if(marks >=50 && marks <=75){
+    else if(marks >=50){
         cout<<"Grade C"<<endl;
     }
-    if(marks<=50){
-        cout<<"Grade F";
+    else {
+        cout<<"Grade F"<<endl;
     }
     return 0;
 }

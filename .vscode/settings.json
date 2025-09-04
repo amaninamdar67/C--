@@ -1,0 +1,22 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveWhenNoErrors": true,
+  "editor.codeActions.triggerOnFocusChange": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "diffEditor.renderSideBySide": false,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "python.defaultInterpreterPath": "c:\\msys64\\ucrt64\\bin\\python.exe",
+  "workbench.preferredDarkColorTheme": "Visual Studio 2017 Dark - C++",
+  "explorer.confirmDragAndDrop": false,
+  "editor.minimap.enabled": false,
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.colorTheme": "FireFly Pro"
+}

@@ -12,6 +12,6 @@ using namespace std;
             cout<<"Your Age is in Odd Number" << endl;
         }
     return 0;
-
+    
 
    }
