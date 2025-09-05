@@ -2,15 +2,12 @@
 using namespace std;
  
 int main(){
-    int num;
-    cout<< "Enter a number" << endl;
-    cin >> num ;
-
-    if(num == 10){
-        cout<< "condition met" << endl;
-    } else{
-        cout<< "Condition not met" << endl;
-    }
+    int num = 14;
+    float weight = 60.5;
+    double distance = 100.6759594;
+    char a = 'A';
+    string name = "Aman";
+    
     return 0;
 
     
