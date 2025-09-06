@@ -4,15 +4,13 @@ using namespace std;
 
 int main()
 { 
-string sasta ="BGMIT";
-string canjush;
-string college; 
+string college ="BGMIT";
+string canjush; 
 
-cout << "sasta college with " ;
+cout << "Expensive fees and still " ;
 cin>> canjush;
 
-cin>> college ; 
-cout<< "we pay 1 lakh every year to " << sasta << " they still cant buy a proper micrpphone" << endl;
+cout<< "peaple pay 1 lakh every year to " << college << " and we still cant buy a proper pen" << endl;
 
  return 0;
 }
